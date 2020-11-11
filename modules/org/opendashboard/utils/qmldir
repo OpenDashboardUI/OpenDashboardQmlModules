@@ -1,0 +1,5 @@
+module org.opendashboard.utils
+Svg 0.1 Svg.qml
+Damper 0.1 Damper.qml
+DebugArea 0.1 DebugArea.qml
+RelativeItem 0.1 RelativeItem.qml
